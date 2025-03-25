@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-16
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our new pre-print on **Monotones in Resource Theories for Dynamical Decoupling** is on the <a href="https://arxiv.org/abs/2412.11595">arXiv</a>.

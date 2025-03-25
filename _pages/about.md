@@ -2,19 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.hw.ac.uk/" target="_blank">Heriot-Watt University Edinburgh</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,13 +19,34 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p style="font-size: 19px; line-height: 1.8;">
+  I'm an Assistant Professor at the 
+  <a href="https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/photonics-quantum-sciences.htm" target="_blank">
+    Institute of Photonics and Quantum Sciences (IPAQS)
+  </a> at Heriot-Watt University, Edinburgh.
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p style="font-size: 19px; line-height: 1.8;">
+  My research interests lie at the intersection of Quantum Information Theory, the field of Open Quantum System Dynamics, and the study of causality in quantum mechanics.
+</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p style="font-size: 19px; line-height: 1.8;">
+  I am particularly interested in the role that complex memory effects play in the dynamics of quantum systems, and study how to control and exploit them for practical tasks. In addition, my research focuses on the investigation of causal and causally disordered signalling structures in higher-order quantum processes, as well as the demarcation line between classical and quantum phenomena.
+</p>
+
+<p style="font-size: 19px; line-height: 1.8;">
+  Have a look at my 
+  <a href="https://scholar.google.com/citations?user=GSDfoHMAAAAJ&hl=en" target="_blank">Google Scholar profile</a> and my 
+  <a href="https://arxiv.org/search/quant-ph?searchtype=author&query=Milz,+S" target="_blank">arXiv submissions</a> for an up-to-date list of my publications.
+</p>
+
+<p style="font-size: 19px; line-height: 1.8;">
+  I'm always looking for people with similar interests, feel free to 
+  <a href="mailto:s.milz@hw.ac.uk">reach out</a>.
+</p>
+
