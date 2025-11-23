@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Esther Delap **joined our group** as a PhD student. Welcome Esther!
+Esther Delap **joined our group** as a PhD student. **Welcome Esther!**

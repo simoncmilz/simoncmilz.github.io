@@ -28,7 +28,7 @@ latest_posts:
   I'm an Assistant Professor at the 
   <a href="https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/photonics-quantum-sciences.htm" target="_blank">
     Institute of Photonics and Quantum Sciences (IPAQS)
-  </a> at Heriot-Watt University, Edinburgh, where I run the "Quantum Effects in Space and Time (QUEST)" group.
+  </a> at Heriot-Watt University, Edinburgh, where I run the **"Quantum Effects in Space and Time (QUEST)"** group.
 </p>
 
 <p style="font-size: 19px; line-height: 1.8;">
